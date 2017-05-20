@@ -1,2 +1,2 @@
 # i4R
-Release of i4R- Fingerprint Secure Module
+Technical site of i4R- Small-Size Fingerprint Authentication Module
